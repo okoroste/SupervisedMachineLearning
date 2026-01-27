@@ -3,8 +3,8 @@
 library(yahoofinancer)
 
 crude.oil <- Ticker$new('CL=F')
-crudeoil<- crude.oil$get_history(start = '2021-03-09', 
-end = '2025-03-06', interval = '1d')
+crudeoil<- crude.oil$get_history(start = '2021-01-26', 
+end = '2026-01-26', interval = '1d')
 
 crudeoil$date<- substr(as.POSIXct(strftime(crudeoil$date, 
 format="%Y-%m-%d %H:%M:%S"), format = "%Y-%m-%d", tz=""), 1, 10)
