@@ -2,10 +2,10 @@
   
   <center><h2>COURSE MATERIALS</h2></center>
   <br>
-    <center><h2>SAS CODES FOR:&nbsp;&nbsp;REGRESSIONS&nbsp;&nbsp;*&nbsp;&nbsp;BINARY CLASSIFICATIONS&nbsp&nbsp;*&nbsp;&nbsp;MULTINOMIAL CLASSIFICATIONS</h2></center>
+    <center><h2>SAS CODES FOR:&nbsp;&nbsp;&nbsp;&nbsp;REGRESSIONS&nbsp;&nbsp;*&nbsp;&nbsp;BINARY CLASSIFICATIONS&nbsp&nbsp;*&nbsp;&nbsp;MULTINOMIAL CLASSIFICATIONS</h2></center>
   <br>
-  <center><h1>R CODES FOR <a href="All_Regressions.R">REGRESSIONS</a> &nbsp;&nbsp;&nbsp;<a href="AllBinaryClassifications.R">
-    BINARY CLASSIFICATIONS</a>&nbsp&nbsp;&nbsp;MULTINOMIAL CLASSIFICATIONS</h1></center>
+  <center><h2>R CODES FOR:&nbsp;&nbsp;&nbsp;&nbsp;<a href="All_Regressions.R">REGRESSIONS</a>&nbsp;&nbsp;*&nbsp;&nbsp;<a href="AllBinaryClassifications.R">
+    BINARY CLASSIFICATIONS</a>&nbsp;&nbsp;*&nbsp;&nbsp;MULTINOMIAL CLASSIFICATIONS</h2></center>
   <br>
       <center><h1>PYTHON CODES FOR REGRESSIONS&nbsp;&nbsp;&nbsp;BINARY CLASSIFICATIONS&nbsp&nbsp;&nbsp;MULTINOMIAL CLASSIFICATIONS</h1></center>
   <br>
