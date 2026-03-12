@@ -5,7 +5,7 @@
     <center><h2>SAS CODES FOR:&nbsp;&nbsp;&nbsp;&nbsp;REGRESSIONS&nbsp;&nbsp;*&nbsp;&nbsp;BINARY CLASSIFICATIONS&nbsp&nbsp;*&nbsp;&nbsp;MULTINOMIAL CLASSIFICATIONS</h2></center>
   <br>
   <center><h2>R CODES FOR:&nbsp;&nbsp;&nbsp;&nbsp;<a href="All_Regressions.R">REGRESSIONS</a>&nbsp;&nbsp;*&nbsp;&nbsp;<a href="AllBinaryClassifications.R">
-    BINARY CLASSIFICATIONS</a>&nbsp;&nbsp;*&nbsp;&nbsp;MULTINOMIAL CLASSIFICATIONS</h2></center>
+    BINARY CLASSIFICATIONS</a>&nbsp;&nbsp;*&nbsp;&nbsp;<a href="AllMultinomialClassifications.R">MULTINOMIAL CLASSIFICATIONS</a></h2></center>
   <br>
          <center><h2>PYTHON CODES FOR:&nbsp;&nbsp;&nbsp;&nbsp;REGRESSIONS&nbsp;&nbsp;*&nbsp;&nbsp;BINARY CLASSIFICATIONS&nbsp&nbsp;*&nbsp;&nbsp;MULTINOMIAL CLASSIFICATIONS</h2></center>
   <br>
