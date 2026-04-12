@@ -4,8 +4,7 @@
   <br>
     <center><h2>SAS CODES FOR:&nbsp;&nbsp;&nbsp;&nbsp;REGRESSIONS&nbsp;&nbsp;*&nbsp;&nbsp;BINARY CLASSIFICATIONS&nbsp&nbsp;*&nbsp;&nbsp;MULTINOMIAL CLASSIFICATIONS</h2></center>
   <br>
-  <center><h2>R CODES FOR:&nbsp;&nbsp;&nbsp;&nbsp;<a href="All_Regressions.R">REGRESSIONS</a>&nbsp;&nbsp;*&nbsp;&nbsp;<a href="AllBinaryClassifications.R">BINARY CLASSIFICATIONS</a>&nbsp;&nbsp;*&nbsp;&nbsp;<a href="AllMultinomialClassifications.R">MULTINOMIAL CLASSIFICATIONS</a>&nbsp;&nbsp;*&nbsp;&nbsp;
- <a href="StackingModelsRegression.R">STACKING MODELS (REGRESSIONS)</a>&nbsp;&nbsp;*&nbsp;&nbsp;
+  <center><h2>R CODES FOR:&nbsp;&nbsp;&nbsp;&nbsp;<a href="All_Regressions.R">REGRESSIONS</a>&nbsp;&nbsp;*&nbsp;&nbsp;<a href="AllBinaryClassifications.R">BINARY CLASSIFICATIONS</a>&nbsp;&nbsp;*&nbsp;&nbsp;<a href="AllMultinomialClassifications.R">MULTINOMIAL CLASSIFICATIONS</a>&nbsp;&nbsp;*&nbsp;&nbsp;<a href="StackingModelsRegression.R">STACKING MODELS (REGRESSIONS)</a>&nbsp;&nbsp;*&nbsp;&nbsp;
 <a href="BalancingBinaryTargetData.R">SUBSAMPLING MAJORITY AND OVERSAMPLING MINORITY CLASSES</a></h2></center>
  <br>
          <center><h2>PYTHON CODES FOR:&nbsp;&nbsp;&nbsp;&nbsp;REGRESSIONS&nbsp;&nbsp;*&nbsp;&nbsp;BINARY CLASSIFICATIONS&nbsp&nbsp;*&nbsp;&nbsp;MULTINOMIAL CLASSIFICATIONS</h2></center>
